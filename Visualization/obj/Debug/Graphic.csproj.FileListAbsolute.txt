@@ -1,0 +1,9 @@
+c:\users\marat\documents\visual studio 2015\Projects\Graphic\Graphic\bin\Debug\Graphic.exe.config
+c:\users\marat\documents\visual studio 2015\Projects\Graphic\Graphic\bin\Debug\Graphic.exe
+c:\users\marat\documents\visual studio 2015\Projects\Graphic\Graphic\bin\Debug\Graphic.pdb
+c:\users\marat\documents\visual studio 2015\Projects\Graphic\Graphic\obj\Debug\Graphic.csprojResolveAssemblyReference.cache
+c:\users\marat\documents\visual studio 2015\Projects\Graphic\Graphic\obj\Debug\Graphic.Form1.resources
+c:\users\marat\documents\visual studio 2015\Projects\Graphic\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+c:\users\marat\documents\visual studio 2015\Projects\Graphic\Graphic\obj\Debug\Graphic.csproj.GenerateResource.Cache
+c:\users\marat\documents\visual studio 2015\Projects\Graphic\Graphic\obj\Debug\Graphic.exe
+c:\users\marat\documents\visual studio 2015\Projects\Graphic\Graphic\obj\Debug\Graphic.pdb

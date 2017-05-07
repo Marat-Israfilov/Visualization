@@ -1,0 +1,6 @@
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Graphic\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Graphic\Graphic\obj\Debug\Graphic.exe
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Graphic\Graphic\obj\Debug\Graphic.pdb
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Graphic\Visualization\bin\Debug\Graphic.exe.config
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Graphic\Visualization\obj\Debug\Graphic.exe
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Graphic\Visualization\obj\Debug\Graphic.pdb
